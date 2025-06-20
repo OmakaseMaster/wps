@@ -36,6 +36,10 @@ header:
     show_theme_chooser: true
     logo:
       text: "Your Name"
+    button:
+      enable: true
+      text: "Get Started"
+      url: "https://hugoblox.com/templates/"
 
 # Site footer
 footer:
